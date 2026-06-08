@@ -1,0 +1,14 @@
+D:\Савицин ПР-21\zd1_Savitsin\zd1_Savitsin\bin\Debug\zd1_Savitsin.exe
+D:\Савицин ПР-21\zd1_Savitsin\zd1_Savitsin\bin\Debug\zd1_Savitsin.exe.config
+D:\Савицин ПР-21\zd1_Savitsin\zd1_Savitsin\obj\Debug\zd1_Savitsin.csproj.AssemblyReference.cache
+D:\Савицин ПР-21\zd1_Savitsin\zd1_Savitsin\obj\Debug\zd1_Savitsin.csproj.CoreCompileInputs.cache
+D:\Савицин ПР-21\zd1_Savitsin\zd1_Savitsin\obj\Debug\zd1_Savitsin.exe
+D:\Савицин ПР-21\zd1_Savitsin\zd1_Savitsin\obj\Debug\zd1_Savitsin.pdb
+C:\Users\st312-07\Desktop\Савицин ПР-21\zd1_Savitsin\zd1_Savitsin\bin\Debug\zd1_Savitsin.exe.config
+C:\Users\st312-07\Desktop\Савицин ПР-21\zd1_Savitsin\zd1_Savitsin\bin\Debug\zd1_Savitsin.exe
+C:\Users\st312-07\Desktop\Савицин ПР-21\zd1_Savitsin\zd1_Savitsin\bin\Debug\zd1_Savitsin.pdb
+C:\Users\st312-07\Desktop\Савицин ПР-21\zd1_Savitsin\zd1_Savitsin\obj\Debug\zd1_Savitsin.csproj.AssemblyReference.cache
+C:\Users\st312-07\Desktop\Савицин ПР-21\zd1_Savitsin\zd1_Savitsin\obj\Debug\zd1_Savitsin.exe.config
+C:\Users\st312-07\Desktop\Савицин ПР-21\zd1_Savitsin\zd1_Savitsin\obj\Debug\zd1_Savitsin.csproj.CoreCompileInputs.cache
+C:\Users\st312-07\Desktop\Савицин ПР-21\zd1_Savitsin\zd1_Savitsin\obj\Debug\zd1_Savitsin.exe
+C:\Users\st312-07\Desktop\Савицин ПР-21\zd1_Savitsin\zd1_Savitsin\obj\Debug\zd1_Savitsin.pdb

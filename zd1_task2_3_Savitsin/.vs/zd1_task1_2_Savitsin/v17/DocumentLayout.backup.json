@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st312-07\\Desktop\\\u0421\u0430\u0432\u0438\u0446\u0438\u043D \u041F\u0420-21\\zd1_Savitsin\\zd1_task2_3_Savitsin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C65B7008-C61C-4657-80CD-04CCE1901902}|zd1_task1_2_Savitsin\\zd1_task1_2_Savitsin.csproj|C:\\Users\\st312-07\\Desktop\\\u0421\u0430\u0432\u0438\u0446\u0438\u043D \u041F\u0420-21\\zd1_Savitsin\\zd1_task2_3_Savitsin\\zd1_task1_2_savitsin\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65B7008-C61C-4657-80CD-04CCE1901902}|zd1_task1_2_Savitsin\\zd1_task1_2_Savitsin.csproj|solutionrelative:zd1_task1_2_savitsin\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65B7008-C61C-4657-80CD-04CCE1901902}|zd1_task1_2_Savitsin\\zd1_task1_2_Savitsin.csproj|c:\\users\\st312-07\\desktop\\\u0441\u0430\u0432\u0438\u0446\u0438\u043D \u043F\u0440-21\\zd1_savitsin\\zd1_task2_3_savitsin\\zd1_task1_2_savitsin\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65B7008-C61C-4657-80CD-04CCE1901902}|zd1_task1_2_Savitsin\\zd1_task1_2_Savitsin.csproj|solutionrelative:zd1_task1_2_savitsin\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65B7008-C61C-4657-80CD-04CCE1901902}|zd1_task1_2_Savitsin\\zd1_task1_2_Savitsin.csproj|C:\\Users\\st312-07\\Desktop\\\u0421\u0430\u0432\u0438\u0446\u0438\u043D \u041F\u0420-21\\zd1_Savitsin\\zd1_task2_3_Savitsin\\zd1_task1_2_savitsin\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65B7008-C61C-4657-80CD-04CCE1901902}|zd1_task1_2_Savitsin\\zd1_task1_2_Savitsin.csproj|solutionrelative:zd1_task1_2_savitsin\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65B7008-C61C-4657-80CD-04CCE1901902}|zd1_task1_2_Savitsin\\zd1_task1_2_Savitsin.csproj|C:\\Users\\st312-07\\Desktop\\\u0421\u0430\u0432\u0438\u0446\u0438\u043D \u041F\u0420-21\\zd1_Savitsin\\zd1_task2_3_Savitsin\\zd1_task1_2_savitsin\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C65B7008-C61C-4657-80CD-04CCE1901902}|zd1_task1_2_Savitsin\\zd1_task1_2_Savitsin.csproj|solutionrelative:zd1_task1_2_savitsin\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\st312-07\\Desktop\\\u0421\u0430\u0432\u0438\u0446\u0438\u043D \u041F\u0420-21\\zd1_Savitsin\\zd1_task2_3_Savitsin\\zd1_task1_2_Savitsin\\Shop.cs",
+              "RelativeDocumentMoniker": "zd1_task1_2_Savitsin\\Shop.cs",
+              "ToolTip": "C:\\Users\\st312-07\\Desktop\\\u0421\u0430\u0432\u0438\u0446\u0438\u043D \u041F\u0420-21\\zd1_Savitsin\\zd1_task2_3_Savitsin\\zd1_task1_2_Savitsin\\Shop.cs",
+              "RelativeToolTip": "zd1_task1_2_Savitsin\\Shop.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T05:30:28.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\st312-07\\Desktop\\\u0421\u0430\u0432\u0438\u0446\u0438\u043D \u041F\u0420-21\\zd1_Savitsin\\zd1_task2_3_Savitsin\\zd1_task1_2_Savitsin\\Product.cs",
+              "RelativeDocumentMoniker": "zd1_task1_2_Savitsin\\Product.cs",
+              "ToolTip": "C:\\Users\\st312-07\\Desktop\\\u0421\u0430\u0432\u0438\u0446\u0438\u043D \u041F\u0420-21\\zd1_Savitsin\\zd1_task2_3_Savitsin\\zd1_task1_2_Savitsin\\Product.cs",
+              "RelativeToolTip": "zd1_task1_2_Savitsin\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T05:17:09.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\st312-07\\Desktop\\\u0421\u0430\u0432\u0438\u0446\u0438\u043D \u041F\u0420-21\\zd1_Savitsin\\zd1_task2_3_Savitsin\\zd1_task1_2_Savitsin\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "zd1_task1_2_Savitsin\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\st312-07\\Desktop\\\u0421\u0430\u0432\u0438\u0446\u0438\u043D \u041F\u0420-21\\zd1_Savitsin\\zd1_task2_3_Savitsin\\zd1_task1_2_Savitsin\\MainWindow.xaml",
+              "RelativeToolTip": "zd1_task1_2_Savitsin\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-06T05:15:35.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st312-07\\Desktop\\\u0421\u0430\u0432\u0438\u0446\u0438\u043D \u041F\u0420-21\\zd1_Savitsin\\zd1_task2_3_Savitsin\\zd1_task1_2_Savitsin\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "zd1_task1_2_Savitsin\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\st312-07\\Desktop\\\u0421\u0430\u0432\u0438\u0446\u0438\u043D \u041F\u0420-21\\zd1_Savitsin\\zd1_task2_3_Savitsin\\zd1_task1_2_Savitsin\\MainWindow.xaml.cs",
+              "RelativeToolTip": "zd1_task1_2_Savitsin\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAzwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T05:15:34.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

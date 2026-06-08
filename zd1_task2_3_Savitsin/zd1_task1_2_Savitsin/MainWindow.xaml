@@ -1,0 +1,48 @@
+﻿<Window x:Class="zd1_task1_2_Savitsin.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:zd1_task1_2_Savitsin"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="650" Width="800">
+    <Grid Margin="0,0,0,-8">
+        <Menu HorizontalAlignment="Left" Height="55" VerticalAlignment="Top" Width="107">
+            <MenuItem Header="Задание 2" Click="Task2"/>
+            <MenuItem Header="Задание 3" Click="Task3"/>
+            <MenuItem Header="Выход" Click="Exit"></MenuItem>
+        </Menu>
+
+        <StackPanel x:Name="PanelTask2" Orientation="Vertical" HorizontalAlignment="Left" VerticalAlignment="Top" Height="362" Width="294" Margin="142,42,0,0" RenderTransformOrigin="0.5,0.5" Visibility="Hidden">
+            <Label Content="Задание 2" Foreground="White" Background="Green"></Label>
+            <TextBox x:Name="txtName" Height="25" ToolTip="Введите название продукта"></TextBox>
+            <TextBox x:Name="txtPrice" ToolTip="Введите цену продукта" Height="25"></TextBox>
+            <TextBox x:Name="txtCount" ToolTip="Введите количестов продукта" Height="25"></TextBox>
+            <TextBox x:Name="txtBudjet" ToolTip="Прибыль магазина" IsReadOnly="True" Height="25"></TextBox>
+            <ListBox x:Name="listResult" Height="80"></ListBox>
+            <Button Content="Купить товар" Click="btnAdd" Foreground="White" Background="Green" Height="25"></Button>
+            <Button Content="Показать все продукты" Click="btnShowAll" Foreground="White" Background="Green" Height="25"></Button>
+            <Button Content="Продать товар" Click="btnBuy" Foreground="White" Background="Green" Height="25"></Button>
+            <Button Content="Поиск товара" Click="btnSearch" Foreground="White" Background="Green" Height="25"></Button>
+            <Button Content="Очистить" Click="btnClear" Foreground="White" Background="Red" Height="25"></Button>
+        </StackPanel>
+
+        <StackPanel x:Name="PanelTask3" Orientation="Vertical" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="148,42,0,0" Height="443" Width="288" Visibility="Hidden">
+            <Label Content="Задание 3" Foreground="White" Background="Green" Height="25"></Label>
+            <TextBox x:Name="txtAuthor" Height="25" ToolTip="Введите автора"></TextBox>
+            <TextBox x:Name="txtTitle" ToolTip="Введите название" Height="25"></TextBox>
+            <TextBox x:Name="txtFileName" ToolTip="Введите путь до файла с мелодией" Height="25"></TextBox>
+            <TextBox x:Name="txtIndex" ToolTip="Введите индекс для поиска" Height="25"></TextBox>
+            <ListBox x:Name="listPlayList" Height="80"></ListBox>
+            <Button Content="Добавить аудиозапись" Click="btnAddAudio" Foreground="White" Background="Green" Height="25"></Button>
+            <Button Content="Переход к следующей" Click="btnNext" Foreground="White" Background="Green" Height="25"></Button>
+            <Button Content="Переход к предыдущей" Click="btnPrevious" Foreground="White" Background="Green" Height="25"></Button>
+            <Button Content="Переход по индексу" Click="btnIndex" Foreground="White" Background="Green" Height="25"></Button>
+            <Button Content="Переход к началу" Click="btnStart" Foreground="White" Background="Green" Height="25"></Button>
+            <Button Content="Показать плейлист" Click="btnShowPlayList" Foreground="White" Background="Green" Height="25"></Button>
+            <Button Content="Загрузить из файла" Click="btnLoad" Foreground="White" Background="Green" Height="25"></Button>
+            <Button Content="Удаление композиции" Click="btnDelete" Foreground="White" Background="Red" Height="25"></Button>
+            <Button Content="Очистить плейлист" Click="btnClearPlayList" Foreground="White" Background="Red" Height="25"></Button>
+        </StackPanel>
+    </Grid>
+</Window>

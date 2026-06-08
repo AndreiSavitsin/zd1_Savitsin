@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st312-07\\Desktop\\\u0421\u0430\u0432\u0438\u0446\u0438\u043D \u041F\u0420-21\\zd1_task1_Savitsin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55E32F43-D1EF-44BE-85FD-3E872BA73914}|zd1_Savitsin\\zd1_Savitsin.csproj|C:\\Users\\st312-07\\Desktop\\\u0421\u0430\u0432\u0438\u0446\u0438\u043D \u041F\u0420-21\\zd1_task1_Savitsin\\zd1_savitsin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E32F43-D1EF-44BE-85FD-3E872BA73914}|zd1_Savitsin\\zd1_Savitsin.csproj|solutionrelative:zd1_savitsin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E32F43-D1EF-44BE-85FD-3E872BA73914}|zd1_Savitsin\\zd1_Savitsin.csproj|c:\\users\\st312-07\\desktop\\\u0441\u0430\u0432\u0438\u0446\u0438\u043D \u043F\u0440-21\\zd1_task1_savitsin\\zd1_savitsin\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E32F43-D1EF-44BE-85FD-3E872BA73914}|zd1_Savitsin\\zd1_Savitsin.csproj|solutionrelative:zd1_savitsin\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\st312-07\\Desktop\\\u0421\u0430\u0432\u0438\u0446\u0438\u043D \u041F\u0420-21\\zd1_task1_Savitsin\\zd1_Savitsin\\Cat.cs",
+              "RelativeDocumentMoniker": "zd1_Savitsin\\Cat.cs",
+              "ToolTip": "C:\\Users\\st312-07\\Desktop\\\u0421\u0430\u0432\u0438\u0446\u0438\u043D \u041F\u0420-21\\zd1_task1_Savitsin\\zd1_Savitsin\\Cat.cs",
+              "RelativeToolTip": "zd1_Savitsin\\Cat.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T04:31:38.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\st312-07\\Desktop\\\u0421\u0430\u0432\u0438\u0446\u0438\u043D \u041F\u0420-21\\zd1_task1_Savitsin\\zd1_Savitsin\\Program.cs",
+              "RelativeDocumentMoniker": "zd1_Savitsin\\Program.cs",
+              "ToolTip": "C:\\Users\\st312-07\\Desktop\\\u0421\u0430\u0432\u0438\u0446\u0438\u043D \u041F\u0420-21\\zd1_task1_Savitsin\\zd1_Savitsin\\Program.cs",
+              "RelativeToolTip": "zd1_Savitsin\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T04:31:20.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
